@@ -119,6 +119,10 @@ hr {
   animation: fade-in 0.5s;
 }
 
+.section-card button {
+  margin-bottom: 1.5rem;
+}
+
 #apps, #games {
   display: block;
 }
